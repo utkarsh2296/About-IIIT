@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">IIIT-Delhi</string>
+    <string name="to_eng">English</string>
+    <string name="to_hindi">हिंदी</string>
+    <string name="option1">About IIIT-D</string>
+    <string name="option2">Programs Available</string>
+    <string name="option3">How to get into UG?</string>
+
+    <string name="label_1">IIIT-D</string>
+    <string name="label_2">About College</string>
+    <string name="label_3">Programs</string>
+    <string name="label_4">Admission Procedure</string>
+    <string name="label_5">Contact</string>
+
+    <string name="about_institute">Indraprastha Institute of Information Technology, Delhi (IIIT-D) was created as a State University by an act of Delhi Government (The IIIT Delhi Act, 2007) empowering it to do research
+        and development and grant degrees.
+        IIIT-Delhi was officially established on 10th June, 2008 as per this notification in the Delhi Gazette.The institute began with its first batch of 60 BTech students in 2008, this first batch graduated in 2012.
+        \n\nBy that time, the institute has attracted nearly 30 faculty members, and its academic program consisted of B.Tech., M.Tech. and Ph.D. programs in CSE and ECE. 2012 turned out be more remarkable year because during the summer of this year, the institute started functioning from its permanent campus in Okhla. Smt. Sheila Dikshit, Chief Minister of Delhi, inaugurated the campus in October, 2012.
+        \n\nCurrently the institute has brightest mind to teach, to learn and together they grow. The institute has strengthen its root in research area in various fields like AI, Deep learning, Machine learning, Social Networks and many others.
+    There are more than 1000 diverse students in campus. In a relatively short time, it has earned a good reputation in India and abroad for being a center of quality education and research and is regarded as one of the country’s leading institute for IT education and research.The institute is accredited by NAAC at A level, and its B.Tech (CSE) is accredited by NBA. The Institute is also approved by UGC and AICTE.</string>
+    <string name="programs">Programs available:\n1. B.tech\n\tCourses Offered:\n\t1. Computer Science and Engineering (CSE)\n\t2. Electronics and Communications Engineering (ECE)
+        \n\t3. Computer Science and Applied Mathematics (CSAM)\n\t4. Computer Science and Design (CSD)\n\t5. Information Technology and Social Sciences (ITSS)\n\n2. M.tech\n\tCourses Offered:\n\t1. Computer Science and Engineering (CSE)\n\t2. Electronics and Communications Engineering (ECE)\n\n3. Ph.D.</string>
+    <string name="admision">B.Tech Admissions 2017 to various programs of IIIT-D will be done through Joint Admission Counselling, Delhi, UCEED Councelling (Only for some seats in CSD) and IIIT-Delhi Counselling (Only for some seats in ITSS). Details regarding the number of seats, eligibility, merit list and admission process are
+        given in B.Tech admission brochure 2017. Admissions for foreign nationals/PIOs/NRIs will be through DASA and directly through IIIT-D process.\n\nEligible students for B.Tech can apply for:
+        \n\t1. Computer Science and Engineering (CSE)\n\t2. Electronics and Communications Engineering (ECE)
+        \n\t3. Computer Science and Applied Mathematics (CSAM)\n\t4. Computer Science and Design (CSD)\n\t5. Information Technology and Social Sciences (ITSS)\n\nProspective Students:\nIf you want to ask some administrative question, please send an email(given in Contact Section) - replies or clarifications will normally be posted only on the institute’s website
+        (Link is provided in Contact Section).
+    </string>
+    <string name="option4">Contact</string>
+    <string name="adress">Address:\n\tIndraprastha Institute of Information Technology, Delhi\n\t
+        Okhla Industrial Estate,Phase III\n\t
+        (Near Govind Puri Metro Station\n\t
+        New Delhi, India - 110020</string>
+    <string name="PhoneNo">Phone No: 91-11-26907400-7404</string>
+    <string name="mail">Click here to send us an email.</string>
+    <string name="linktowebsite">http://iiitd.ac.in/admission/btech/2017</string>
+    <string name="towebsite">Click below to go to B.Tech admission page.</string>
+</resources>
